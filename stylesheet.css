@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Extra+Condensed:ital,wght@0,100;0,300;0,400;1,300;1,400&family=Open+Sans&family=Sofia+Sans+Semi+Condensed:ital,wght@1,100&display=swap');
+body
+{
+    font-family: 'Fira Sans Extra Condensed', sans-serif;
+}
+.bighead{
+    color : black;
+    font: bold;
+}
+.mediumhead
+{
+    padding: 1rem;
+    color: blue;
+    background-color: blue;
+    padding: 0.5rem 0.5rem;
+    color: snow;
+}
+.container{
+    color: cyan;
+    padding: auto;
+    border-bottom: 1px solid #000;
+    font-weight: bold;
+}
+.line{
+    padding: 1rem 1rem;
+    color: white;
+}
+.lowerhead{
+    background-color: blue;
+    border-radius: 0.5rem;
+    border-color: black;
+    border-width: 0.5rem;
+   padding: 0.5rem 0.5rem;
+    color: red;
+}
+.presentation{
+    background-color: blue;
+    padding: 0.5rem 0.5rem;
+    color: snow;
+    display: inline;
+    }
+    .primarylink{
+        background-color: cornflowerblue;
+        color: aliceblue;
+        padding: 1rem 2rem;
+        border-radius: 1rem;
+    }
+.secondarylink{
+    background-color: chartreuse;
+    color: antiquewhite;
+    padding: 1rem 2rem;
+    border-radius: 1rem;
+}
